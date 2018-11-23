@@ -1,2 +1,2 @@
-# datasciencecoursera
-Repo for coursera Data Scientists Toolbox class
+# DataSciences
+Collection of files for Data Sciences coursera course
